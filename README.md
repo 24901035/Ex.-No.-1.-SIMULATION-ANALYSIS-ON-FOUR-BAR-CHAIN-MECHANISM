@@ -59,8 +59,8 @@
 
 
 
-### Name: S.Yogesh
-### Register Number:  212224230311
+### Name: MOHAN R
+### Register Number:  212224230168
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
